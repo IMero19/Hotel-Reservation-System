@@ -1,4 +1,4 @@
-# Hotel Management System Phase 2
+# Hotel Management System
 
 A comprehensive Java-based hotel management application featuring role-based dashboards for administrators, managers, and receptionists. Manages guest reservations, room availability, employee administration, and hotel services including spa, laundry, dining, and transportation. Built with Java Swing GUI interface and file-based data storage.
 
