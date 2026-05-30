@@ -1,0 +1,6 @@
+101|Single|80.0|City|1|true
+102|Double|120.0|Garden|1|true
+201|Suite|250.0|Ocean|2|true
+202|Double|130.0|Pool|2|true
+203|Single|80.0|City|2|true
+301|Suite|300.0|Ocean|3|true

@@ -1,0 +1,2 @@
+10|Sophia|Clark|555-3030|sophia@hotel.com|MGR-10|8500.0|Manager|F|35
+11|David|Kim|555-4040|david@hotel.com|REC-11|3800.0|Receptionist|M|28
